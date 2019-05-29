@@ -1,0 +1,3 @@
+﻿  linkedlist.c
+c:\users\admin\desktop\cpsc259_lab3_framework-vs2017\cpsc259_lab3_framework-vs2017\linkedlist.c(181): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'node *'
+  CPSC259_Lab3_Framework-VS2017.vcxproj -> C:\Users\Admin\Desktop\CPSC259_Lab3_Framework-VS2017\Debug\CPSC259_Lab3_Framework-VS2017.exe
